@@ -28,7 +28,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <Stethoscope className="h-8 w-8 text-primary-600" />
-            <span className="ml-2 text-xl font-semibold text-gray-900">Dr. Morgan Health</span>
+            <span className="ml-2 text-xl font-semibold text-gray-900">ABSAHEM Health</span>
           </div>
           
           {/* Desktop Menu */}

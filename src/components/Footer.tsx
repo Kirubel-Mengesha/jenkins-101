@@ -66,7 +66,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 text-primary-500 mr-3 mt-1 flex-shrink-0" />
-                <span>dr.morgan@healthcareservices.com</span>
+                <span>dr.michael@healthcareservices.com</span>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-primary-500 mr-3 mt-1 flex-shrink-0" />
@@ -81,7 +81,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {currentYear} Dr. Morgan Health. All rights reserved.</p>
+          <p>&copy; {currentYear} Dr. Michael Health. All rights reserved.</p>
           <div className="mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-white mr-4 transition-colors">Privacy Policy</a>
             <a href="#" className="text-gray-400 hover:text-white mr-4 transition-colors">Terms of Service</a>

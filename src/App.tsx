@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 function App() {
   // Update document title on mount
   useEffect(() => {
-    document.title = "Dr. Morgan Health | Medical Services";
+    document.title = "Dr. Michael G Adugna | Medical Services";
     
     // Smooth scrolling for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

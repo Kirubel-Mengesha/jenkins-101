@@ -40,7 +40,7 @@ const Contact = () => {
             <ContactInfo 
               icon={Mail} 
               title="Email" 
-              content="dr.morgan@healthcareservices.com" 
+              content="dr.michael@healthcareservices.com" 
             />
             
             <ContactInfo 
